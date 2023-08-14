@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: darkgoldenrod;
+    background-color: darkblue;
+    text-align: center;
+}
+.navegacao{
+    padding: 15px;
+}
+#links{
+    color:aliceblue;
+    background-color: black;
+    text-decoration: none;
+    padding 10px;
+    display: flexbox;
+    padding: 15px;px;
+}
+
+#links:hover{
+    color: blue;
+}
+p{
+    font-style:italic;
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+#tituloresumo{
+    color: darkblue;
+    background-color:darkgoldenrod;
+    text-align: center;
+}
+
+#livros1{
+    color: darkblue;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+#bio{
+    color: darkblue;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
